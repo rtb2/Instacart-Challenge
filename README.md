@@ -9,4 +9,5 @@ I will be using the Instacart data set from Kaggle competition [Instacart Market
 
 ### Contants:
 1. [Data Wrangling.](https://github.com/rtb2/Instacart-Challenge/tree/master/Data%20Wrangling)
+2. [Data Storytelling.](https://github.com/rtb2/Instacart-Challenge/tree/master/Data%20Storytelling)
                 
